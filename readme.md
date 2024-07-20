@@ -1,4 +1,4 @@
-# File Manager Application
+# File Manager Application(Promises and async/await)
 
 **Author: Suraj Kumar Sahu (aka Shaan Suraj)**
 
